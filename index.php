@@ -8,7 +8,7 @@
         <link rel='stylesheet' href='css/style.css' type='text/css'>
         <script src="js/togglerandomBG.js"></script>
         <script src="js/r-a-dio.js"></script>
-        <title>Love</title>
+        <title>Life</title>
     </head>
     <body onload="randomBG();">
         <div id="leftbg">
