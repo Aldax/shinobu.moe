@@ -20,7 +20,8 @@
                 <a class="topcolor" href="https://app.roll20.net/home">Roll20</a><br>
                 <a class="topcolor" href="https://www.youtube.com/">Youtube</a><br>
                 <a class="topcolor" href="https://mail.google.com/">Gmail</a><br>
-                <a class="topcolor" href="http://bbsistema.tecmilenio.edu.mx/">School</a>
+                <a class="topcolor" href="http://outlook.com">Outlook.com</a><br> <!-- Added Outlook.com link -->
+                <a class="topcolor" href="http://www.uanl.mx/enlinea">School</a> <!-- localized the school to the one I attended -->
             </div>
         </div>
 
@@ -95,7 +96,7 @@
                 <div class="divurls">
                     <strong>Weeaboo:</strong><br>
                     <a class="urlcolor" href="http://www.nyaa.se">Nyaa</a><br>
-                    <a class="urlcolor" href="http://myanimelist.net/profile/Zyst">MyAnimeList</a><br>
+                    <a class="urlcolor" href="http://myanimelist.net/profile/Aldax">MyAnimeList</a><br> <!-- Changed link so that it now points to my profile -->
                     <a class="urlcolor" href="https://animebytes.tv/">Anime Bytes</a><br>
                     <a class="urlcolor" href="http://bakabt.me/">BakaBT</a><br>
                     <a class="urlcolor" href="http://www.amiami.com/">AmiAmi</a><br>
@@ -121,11 +122,12 @@
                     <a class="urlcolor" href="https://ankiweb.net/decks/">Anki Decks</a><br>
                     <a class="urlcolor" href="https://docs.google.com/document/d/1G5C7fCe07CDzYalZYZObzxv_fhw7RUNsLHiMAY-t7FA">DJT Guide</a><br>
                     <a class="urlcolor" href="https://docs.google.com/spreadsheet/lv?key=0Agk2IH0ZXhn7dDNmSW1BVFU5dVgyOHkzWjU4b2l2dkE">DJT Reading</a><br>
-                    <a class="urlcolor" href="http://shinobu.moe/DJT/">DJT Pastebin</a>
+                    <a class="urlcolor" href="http://aldax.me/DJT/">DJT Pastebin</a>
                 </div>
 
                 <div class="divurls">
                     <strong>Godlike:</strong><br>
+                    <a class="urlcolor" href="http://shinobu.moe/">shinobu.moe</a><br>
                     <a class="urlcolor" href="http://loli.dance/">Illya Dance</a><br>
                     <a class="urlcolor" href="http://420.moe/">420.moe</a><br>
                     <a class="urlcolor" href="http://sleepyti.me/">Sleepyti.me</a><br>
